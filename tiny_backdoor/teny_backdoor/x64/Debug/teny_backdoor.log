@@ -1,0 +1,5 @@
+﻿  teny_backdoor.cpp
+C:\Users\Mazy\source\repos\teny_backdoor\teny_backdoor\teny_backdoor.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mazy\source\repos\teny_backdoor\teny_backdoor\teny_backdoor.cpp(77,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mazy\source\repos\teny_backdoor\teny_backdoor\teny_backdoor.cpp(133,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  teny_backdoor.vcxproj -> C:\Users\Mazy\source\repos\teny_backdoor\x64\Debug\teny_backdoor.exe
