@@ -24,8 +24,8 @@ This project aims to explore the creation of undetectable malware using the powe
 1. Clone the repository: `git clone [repository link]`
 2. Open the project in Visual Studio.
 3. Ensure necessary dependencies are installed.
-4. Configure SSL certificate paths correctly in the code.
-5. Compile and run the Python-based C2 server code.
+4. Configure OpenSSL Lib on visual studio.
+5. Run the Python-based C2 server code.
 6. Compile and run the C++ source code of the malware using Visual Studio.
 
 ## Disclaimer
