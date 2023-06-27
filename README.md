@@ -1,6 +1,6 @@
-# Undetectable Malware Project
+# Tiny Undetectable Malware Project
 
-🔒⚙️ Welcome to the Undetectable Malware Project! ⚙️🔒
+🔒⚙️ Welcome to the Tiny Undetectable Malware Project! ⚙️🔒
 
 ## Project Overview
 
