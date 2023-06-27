@@ -21,7 +21,7 @@ This project aims to explore the creation of undetectable malware using the powe
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository link]`
+1. Clone the repository: `git clone [[repository link]](https://github.com/xnderLAN/tiny_backdoor.git)`
 2. Open the project in Visual Studio.
 3. Ensure necessary dependencies are installed.
 4. Configure OpenSSL Lib on visual studio.
